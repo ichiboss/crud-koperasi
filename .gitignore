@@ -1,0 +1,10 @@
+# Laragon/Windows files
+.DS_Store
+Thumbs.db
+*.log
+tmp/
+
+# Project specific
+scratch/
+.gemini/
+*.sql.bak
